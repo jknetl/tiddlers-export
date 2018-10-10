@@ -1,7 +1,7 @@
 
 # Created by https://www.gitignore.io/api/java,python,maven,vim,intellij
 #
-tiddlers/
+tiddlers/*
 nohup.out
 tiddlers.json
 *.iml
